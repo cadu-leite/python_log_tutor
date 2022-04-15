@@ -1,0 +1,10 @@
+2022-04-14 21:58:33,011 WARNING LOGr:__main__ f:main:20>WOW Main started
+2022-04-14 21:58:33,011 DEBUG LOGr:__main__ f:main:22> [debug] esta me vendo?
+2022-04-14 21:58:33,011 INFO LOGr:__main__ f:main:23> [info] esta me vendo?
+2022-04-14 21:58:33,012 WARNING LOGr:__main__ f:main:24> [warning] esta me vendo?
+2022-04-14 21:58:33,012 CRITICAL LOGr:__main__ f:main:25> [critical] esta me vendo?
+2022-04-14 21:58:33,012 ERROR LOGr:__main__ f:main:26> [error] esta me vendo?
+2022-04-14 21:58:33,012 WARNING LOGr:__main__ f:main:28>OOOPS Main finished
+2022-04-14 21:58:33,012 WARNING LOGr:root f:<module>:55> [warning] esta me vendo?
+2022-04-14 21:58:33,012 CRITICAL LOGr:root f:<module>:56> [critical] esta me vendo?
+2022-04-14 21:58:33,012 ERROR LOGr:root f:<module>:57> [error] esta me vendo?
